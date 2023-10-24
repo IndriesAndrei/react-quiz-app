@@ -10,6 +10,7 @@ Currently, two official plugins are available:
 ![image](https://github.com/IndriesAndrei/react-quiz-app/assets/24415865/3d7c2fc9-0659-40d0-b4ea-1cda2957c507)
 
   
-![image](https://github.com/IndriesAndrei/react-quiz-app/assets/24415865/69560de1-a14a-4a27-82eb-5203897acaaf)
+
+![image](https://github.com/IndriesAndrei/react-quiz-app/assets/24415865/d89a846c-0615-4e38-aaf2-d48248496a23)
 
 
